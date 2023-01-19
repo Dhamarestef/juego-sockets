@@ -4,6 +4,8 @@ from player import Player
 import numpy as np
 from scipy import ndimage
 
+
+
 width = 775
 height = 775
 pygame.font.init()
